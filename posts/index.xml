@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Fahmi Alfath</title>
-    <link>/posts/</link>
+    <link>https://fahmi-alfath.github.io/posts/</link>
     <description>Recent content in Posts on Fahmi Alfath</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 20 Feb 2020 11:42:06 +0700</lastBuildDate>
     
-        <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://fahmi-alfath.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Lorem Ipsum</title>
-      <link>/2020/02/lorem-ipsum/</link>
+      <link>https://fahmi-alfath.github.io/2020/02/lorem-ipsum/</link>
       <pubDate>Thu, 20 Feb 2020 11:42:06 +0700</pubDate>
       
-      <guid>/2020/02/lorem-ipsum/</guid>
+      <guid>https://fahmi-alfath.github.io/2020/02/lorem-ipsum/</guid>
       <description>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur alias quis mollitia adipisci assumenda nostrum nam aperiam impedit incidunt autem consectetur beatae, rerum, est maiores quo similique ad fuga necessitatibus!
 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Veniam deleniti totam quis ullam maiores! Maiores aut, rem voluptatum unde facere saepe fugiat voluptates repudiandae atque labore totam suscipit soluta minima?
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod harum cumque quia magni aliquid.</description>
@@ -23,10 +23,10 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod harum cumque quia 
     
     <item>
       <title>Tentang</title>
-      <link>/about/</link>
+      <link>https://fahmi-alfath.github.io/about/</link>
       <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://fahmi-alfath.github.io/about/</guid>
       <description>Tentang Penulis Seorang Mahasiswa di salah satu kampus di Sukabumi yang masih menekuni bidang pemrograman terutama pemrograman web dengan bahasa PHP. Terbiasa menggunakan PHP Framework Codeigniter dalam pembuatan aplikasi dan juga website.
 Tujuan adanya website ini diantaranya yaitu sebagai portofolio hasil dari yang pernah pelajari dan kerjakan, membagikan pengetahuan seperti cara membuat sesuatu dan juga perbaikan masalah / error pada suatu kode.
 Apa saja yang saya kuasai? Saya menguasai beberapa bahasa pemrograman, diawali dengan bahasa yang biasa dikuasai dalam pemrograman web seperti HTML, CSS murni maupun dengan Framework seperti Bootstrap dan Semantic UI, Javascript dengan menggunakan JQuery, dan PHP native serta menggunakan Codeigniter dan Laravel.</description>

@@ -3,47 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
+    <loc>https://fahmi-alfath.github.io/</loc>
     <lastmod>2020-02-20T11:42:06+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/2020/02/lorem-ipsum/</loc>
+    <loc>https://fahmi-alfath.github.io/2020/02/lorem-ipsum/</loc>
     <lastmod>2020-02-20T11:42:06+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/posts/</loc>
+    <loc>https://fahmi-alfath.github.io/posts/</loc>
     <lastmod>2020-02-20T11:42:06+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>https://fahmi-alfath.github.io/about/</loc>
     <lastmod>2020-02-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://fahmi-alfath.github.io/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/series/</loc>
+    <loc>https://fahmi-alfath.github.io/series/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://fahmi-alfath.github.io/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
