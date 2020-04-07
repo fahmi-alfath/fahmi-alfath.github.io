@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Galeri Astronomi</title>
+</head>
+<body>
+    <div id="container">
+        <app-header></app-header>
+        <main>
+            <div id="content">
+                <section>
+                    <label>Pilih Tanggal</label>
+                    <input type="date" class="form-control" name="selectionDate" id="inputDate">
+                    <button id="buttonSearch" type="submit">Cari Sekarang</button>
+                </section>
+                <article>
+                    <h2>Silahkan pilih tanggal untuk memulai.</h2>
+                </article>
+            </div>
+            <aside>
+                <app-sidebar></app-sidebar>
+            </aside>
+        </main>
+    
+        <app-footer></app-footer>
+    </div>
+<script type="text/javascript" src="bundle.js"></script></body>
+</html>
