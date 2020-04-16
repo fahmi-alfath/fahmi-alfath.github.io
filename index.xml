@@ -5,20 +5,43 @@
     <link>https://fahmi-alfath.github.io/</link>
     <description>Recent content on Fahmi Alfath</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 20 Feb 2020 11:42:06 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://fahmi-alfath.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Lorem Ipsum</title>
-      <link>https://fahmi-alfath.github.io/2020/02/lorem-ipsum/</link>
-      <pubDate>Thu, 20 Feb 2020 11:42:06 +0700</pubDate>
+      <title>Pertemuan 3 - Perangkat Jaringan</title>
+      <link>https://fahmi-alfath.github.io/2020/04/perangkat-jaringan/</link>
+      <pubDate>Tue, 14 Apr 2020 19:40:15 +0700</pubDate>
       
-      <guid>https://fahmi-alfath.github.io/2020/02/lorem-ipsum/</guid>
-      <description>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur alias quis mollitia adipisci assumenda nostrum nam aperiam impedit incidunt autem consectetur beatae, rerum, est maiores quo similique ad fuga necessitatibus!
-Lorem, ipsum dolor sit amet consectetur adipisicing elit. Veniam deleniti totam quis ullam maiores! Maiores aut, rem voluptatum unde facere saepe fugiat voluptates repudiandae atque labore totam suscipit soluta minima?
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod harum cumque quia magni aliquid.</description>
+      <guid>https://fahmi-alfath.github.io/2020/04/perangkat-jaringan/</guid>
+      <description>Dalam membangun sebuah jaringan komputer yang lebih besar terdapat beberapa device yang harus digunakan seperti:
+1. Hub Hub biasanya dipilih sebagai perangkat perantara dalam jaringan LAN yang sangat kecil dimana bandwidth pengguna tidak mengalami masalah. Namun, dalam perkembangan jaringan saat ini, hub telah digantikan oleh switch.
+ 2. Switch Switch nampaknya kini lebih disukai daripada hub dalam membangun sebuah jaringan lokal (LAN). Perangkat switch dapat membagi beberapa segmen collision domain dan menyediakan keamanan yang lebih baik dibandingkan dengan hub.</description>
+    </item>
+    
+    <item>
+      <title>Pertemuan 2 - IP Address dan Subnetting</title>
+      <link>https://fahmi-alfath.github.io/2020/04/ip-address-dan-subnetting/</link>
+      <pubDate>Sun, 12 Apr 2020 17:40:05 +0700</pubDate>
+      
+      <guid>https://fahmi-alfath.github.io/2020/04/ip-address-dan-subnetting/</guid>
+      <description>IP Address IP address merupakan alamat dari sebuah komputer yang dibentuk oleh sekumpulan bilangan biner sepanjang 32 bit, yang dibagi atas 4 bagian.
+IP address merupakan sebuah indetitas dari host pada jaringan komputer. IP address yang digunakan untuk keperluan LAN/intranet disebut sebagai IP address local. Sedangkan IP address yang digunakan untuk keperluan internet disebut IP address public.
+Pembagian Kelas IP Address Struktur IP Address  Network dan Host Subnet Mask Panjang prefiks  Jenis IP Address IP Publik dan IP Private</description>
+    </item>
+    
+    <item>
+      <title>Pertemuan 1 - Pengenalan Jaringan Komputer</title>
+      <link>https://fahmi-alfath.github.io/2020/04/pengenalan-jaringan-komputer/</link>
+      <pubDate>Fri, 10 Apr 2020 17:40:05 +0700</pubDate>
+      
+      <guid>https://fahmi-alfath.github.io/2020/04/pengenalan-jaringan-komputer/</guid>
+      <description>Pengertian Jaringan Komputer Jaringan Komputer adalah hubungan dua buah device ataupun lebih yang digunakan untuk berkomunikasi diantara para device.
+Saat ini tidak hanya komputer saja end device yang bisa dihubungkan dengan jaringan tetapi alat-alat rumah tangga pun sudah mulai menggunakan ip, maka penggunaan ip v4 sudah mulai disangsikan akan memenuhi kebutuhan ip address.
+Untuk membangun sebuah jaringan komputer, diperlukan sebuah media Transmisi baik menggunakan Kabel maupun menggunakan Wireless.
+Komponen Jaringan Komputer  End Device ( berupa alat/komponen yang dihubungkan dengan komputer ) Perantara Perangkat Jaringan ( berupa switch, hub, reuter, modem dll ) Media Transmisi ( kabel, wifi dsb )  Media Jaringan  Jenis Kabel Jaringan  Unshielded Twisted-Pair Cable Shielded Twisted-Pair Cable Coaxial Cable Copper Media Safety      Karakteristik Kabel Tembaga  Murah, mudah untuk menginstal, resistansi rendah untuk arus listrik Jarak dan interferensi sinyal    Pada umumnya jaringan komputer menggunakan media transmisi berupa kabel UTP.</description>
     </item>
     
     <item>

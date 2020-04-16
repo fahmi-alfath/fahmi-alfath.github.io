@@ -9433,3 +9433,11 @@ body.okayNav-loaded {
     max-height: 200px;
   }
 }
+
+
+/* custom image */
+
+p img {
+  display: block;
+  margin: auto;
+}

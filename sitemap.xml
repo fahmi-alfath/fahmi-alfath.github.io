@@ -3,22 +3,92 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://fahmi-alfath.github.io/</loc>
-    <lastmod>2020-02-20T11:42:06+07:00</lastmod>
+    <loc>https://fahmi-alfath.github.io/categories/</loc>
+    <lastmod>2020-04-14T19:40:15+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://fahmi-alfath.github.io/2020/02/lorem-ipsum/</loc>
-    <lastmod>2020-02-20T11:42:06+07:00</lastmod>
+    <loc>https://fahmi-alfath.github.io/tags/jaringan-komputer/</loc>
+    <lastmod>2020-04-14T19:40:15+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://fahmi-alfath.github.io/categories/jaringan-komputer/</loc>
+    <lastmod>2020-04-14T19:40:15+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://fahmi-alfath.github.io/tags/perangkat-jaringan/</loc>
+    <lastmod>2020-04-14T19:40:15+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://fahmi-alfath.github.io/2020/04/perangkat-jaringan/</loc>
+    <lastmod>2020-04-14T19:40:15+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://fahmi-alfath.github.io/posts/</loc>
-    <lastmod>2020-02-20T11:42:06+07:00</lastmod>
+    <lastmod>2020-04-14T19:40:15+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://fahmi-alfath.github.io/tags/</loc>
+    <lastmod>2020-04-14T19:40:15+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://fahmi-alfath.github.io/tags/ip-address/</loc>
+    <lastmod>2020-04-12T17:40:05+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://fahmi-alfath.github.io/2020/04/ip-address-dan-subnetting/</loc>
+    <lastmod>2020-04-12T17:40:05+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://fahmi-alfath.github.io/tags/subnetting/</loc>
+    <lastmod>2020-04-12T17:40:05+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://fahmi-alfath.github.io/tags/pengenalan/</loc>
+    <lastmod>2020-04-10T17:40:05+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://fahmi-alfath.github.io/2020/04/pengenalan-jaringan-komputer/</loc>
+    <lastmod>2020-04-10T17:40:05+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://fahmi-alfath.github.io/</loc>
+    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -31,19 +101,7 @@
   </url>
   
   <url>
-    <loc>https://fahmi-alfath.github.io/categories/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://fahmi-alfath.github.io/series/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://fahmi-alfath.github.io/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
