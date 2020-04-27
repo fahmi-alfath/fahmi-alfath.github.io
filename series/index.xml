@@ -10,7 +10,29 @@
     
     
     <item>
-      <title>Pertemuan 3 - Perangkat Jaringan</title>
+      <title>Topologi Jaringan</title>
+      <link>https://fahmi-alfath.github.io/2020/04/topologi-jaringan/</link>
+      <pubDate>Mon, 27 Apr 2020 18:41:23 +0700</pubDate>
+      
+      <guid>https://fahmi-alfath.github.io/2020/04/topologi-jaringan/</guid>
+      <description>Definisi Topologi Jaringan Topologi jaringan komputer merupakan suatu teknik untuk menghubungkan komputer yang satu dengan komputer lainnya yang merangkai menjadi sebuah jaringan.
+Setiap topologi jaringan komputer memiliki perbedaan:
+ Berbeda dari segi kecepatan pengiriman data Biaya pembuatan Serta kemudahan dalam proses maintenance nya.  Dan juga setiap jenis topologi jaringan komputer memiliki kelebihan serta kekurangannya masing-masing.
+Klasifikasi Topologi Jaringan   Physical Topology Topologi yang menggambarkan penempatan node jaringan dan koneksi fisik di antara jaringan komputer.</description>
+    </item>
+    
+    <item>
+      <title>Media Transmisi</title>
+      <link>https://fahmi-alfath.github.io/2020/04/media-transmisi/</link>
+      <pubDate>Mon, 27 Apr 2020 18:32:34 +0700</pubDate>
+      
+      <guid>https://fahmi-alfath.github.io/2020/04/media-transmisi/</guid>
+      <description>Agar bisa mengirim informasi atau data dari sebuah tempat ke tempat lain, maka dibutuhkan sebuah jalur atau media supaya bisa membawanya sampai ke tujuan yang dikehendaki. Media yang membawa data itu umumnya dinamakan dengan media transmisi atau disebut juga dengan transmission medium. Pada dasarnya, arti dari media transmisi adalah jalur atau media yang dipakai untuk membawa informasi dari sender atau pengirim menuju ke receiver atau penerima.
+Semua perangkat elektronik yang digunakan untuk alat komunikasi punya media transmisi berbeda beda.</description>
+    </item>
+    
+    <item>
+      <title>Perangkat Jaringan</title>
       <link>https://fahmi-alfath.github.io/2020/04/perangkat-jaringan/</link>
       <pubDate>Tue, 14 Apr 2020 19:40:15 +0700</pubDate>
       
@@ -21,7 +43,7 @@
     </item>
     
     <item>
-      <title>Pertemuan 2 - IP Address dan Subnetting</title>
+      <title>IP Address dan Subnetting</title>
       <link>https://fahmi-alfath.github.io/2020/04/ip-address-dan-subnetting/</link>
       <pubDate>Sun, 12 Apr 2020 17:40:05 +0700</pubDate>
       
@@ -32,7 +54,7 @@ Pembagian Kelas IP Address Struktur IP Address  Network dan Host Subnet Mask Pan
     </item>
     
     <item>
-      <title>Pertemuan 1 - Pengenalan Jaringan Komputer</title>
+      <title>Pengenalan Jaringan Komputer</title>
       <link>https://fahmi-alfath.github.io/2020/04/pengenalan-jaringan-komputer/</link>
       <pubDate>Fri, 10 Apr 2020 17:40:05 +0700</pubDate>
       

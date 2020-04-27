@@ -4,21 +4,63 @@
   
   <url>
     <loc>https://fahmi-alfath.github.io/categories/</loc>
-    <lastmod>2020-04-14T19:40:15+07:00</lastmod>
+    <lastmod>2020-04-27T18:41:23+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://fahmi-alfath.github.io/tags/jaringan-komputer/</loc>
-    <lastmod>2020-04-14T19:40:15+07:00</lastmod>
+    <lastmod>2020-04-27T18:41:23+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://fahmi-alfath.github.io/categories/jaringan-komputer/</loc>
-    <lastmod>2020-04-14T19:40:15+07:00</lastmod>
+    <lastmod>2020-04-27T18:41:23+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://fahmi-alfath.github.io/posts/</loc>
+    <lastmod>2020-04-27T18:41:23+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://fahmi-alfath.github.io/tags/</loc>
+    <lastmod>2020-04-27T18:41:23+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://fahmi-alfath.github.io/tags/topologi-jaringan/</loc>
+    <lastmod>2020-04-27T18:41:23+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://fahmi-alfath.github.io/2020/04/topologi-jaringan/</loc>
+    <lastmod>2020-04-27T18:41:23+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://fahmi-alfath.github.io/tags/media-transmisi/</loc>
+    <lastmod>2020-04-27T18:32:34+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://fahmi-alfath.github.io/2020/04/media-transmisi/</loc>
+    <lastmod>2020-04-27T18:32:34+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -32,20 +74,6 @@
   
   <url>
     <loc>https://fahmi-alfath.github.io/2020/04/perangkat-jaringan/</loc>
-    <lastmod>2020-04-14T19:40:15+07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://fahmi-alfath.github.io/posts/</loc>
-    <lastmod>2020-04-14T19:40:15+07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://fahmi-alfath.github.io/tags/</loc>
     <lastmod>2020-04-14T19:40:15+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Topologi Jaringan on Fahmi Alfath</title>
+    <link>https://fahmi-alfath.github.io/tags/topologi-jaringan/</link>
+    <description>Recent content in Topologi Jaringan on Fahmi Alfath</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 27 Apr 2020 18:41:23 +0700</lastBuildDate>
+    
+        <atom:link href="https://fahmi-alfath.github.io/tags/topologi-jaringan/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Topologi Jaringan</title>
+      <link>https://fahmi-alfath.github.io/2020/04/topologi-jaringan/</link>
+      <pubDate>Mon, 27 Apr 2020 18:41:23 +0700</pubDate>
+      
+      <guid>https://fahmi-alfath.github.io/2020/04/topologi-jaringan/</guid>
+      <description>Definisi Topologi Jaringan Topologi jaringan komputer merupakan suatu teknik untuk menghubungkan komputer yang satu dengan komputer lainnya yang merangkai menjadi sebuah jaringan.
+Setiap topologi jaringan komputer memiliki perbedaan:
+ Berbeda dari segi kecepatan pengiriman data Biaya pembuatan Serta kemudahan dalam proses maintenance nya.  Dan juga setiap jenis topologi jaringan komputer memiliki kelebihan serta kekurangannya masing-masing.
+Klasifikasi Topologi Jaringan   Physical Topology Topologi yang menggambarkan penempatan node jaringan dan koneksi fisik di antara jaringan komputer.</description>
+    </item>
+    
+    <item>
+      <title>Media Transmisi</title>
+      <link>https://fahmi-alfath.github.io/2020/04/media-transmisi/</link>
+      <pubDate>Mon, 27 Apr 2020 18:32:34 +0700</pubDate>
+      
+      <guid>https://fahmi-alfath.github.io/2020/04/media-transmisi/</guid>
+      <description>Agar bisa mengirim informasi atau data dari sebuah tempat ke tempat lain, maka dibutuhkan sebuah jalur atau media supaya bisa membawanya sampai ke tujuan yang dikehendaki. Media yang membawa data itu umumnya dinamakan dengan media transmisi atau disebut juga dengan transmission medium. Pada dasarnya, arti dari media transmisi adalah jalur atau media yang dipakai untuk membawa informasi dari sender atau pengirim menuju ke receiver atau penerima.
+Semua perangkat elektronik yang digunakan untuk alat komunikasi punya media transmisi berbeda beda.</description>
+    </item>
+    
+    <item>
+      <title>Perangkat Jaringan</title>
+      <link>https://fahmi-alfath.github.io/2020/04/perangkat-jaringan/</link>
+      <pubDate>Tue, 14 Apr 2020 19:40:15 +0700</pubDate>
+      
+      <guid>https://fahmi-alfath.github.io/2020/04/perangkat-jaringan/</guid>
+      <description>Dalam membangun sebuah jaringan komputer yang lebih besar terdapat beberapa device yang harus digunakan seperti:
+1. Hub Hub biasanya dipilih sebagai perangkat perantara dalam jaringan LAN yang sangat kecil dimana bandwidth pengguna tidak mengalami masalah. Namun, dalam perkembangan jaringan saat ini, hub telah digantikan oleh switch.
+ 2. Switch Switch nampaknya kini lebih disukai daripada hub dalam membangun sebuah jaringan lokal (LAN). Perangkat switch dapat membagi beberapa segmen collision domain dan menyediakan keamanan yang lebih baik dibandingkan dengan hub.</description>
+    </item>
+    
+    <item>
+      <title>IP Address dan Subnetting</title>
+      <link>https://fahmi-alfath.github.io/2020/04/ip-address-dan-subnetting/</link>
+      <pubDate>Sun, 12 Apr 2020 17:40:05 +0700</pubDate>
+      
+      <guid>https://fahmi-alfath.github.io/2020/04/ip-address-dan-subnetting/</guid>
+      <description>IP Address IP address merupakan alamat dari sebuah komputer yang dibentuk oleh sekumpulan bilangan biner sepanjang 32 bit, yang dibagi atas 4 bagian.
+IP address merupakan sebuah indetitas dari host pada jaringan komputer. IP address yang digunakan untuk keperluan LAN/intranet disebut sebagai IP address local. Sedangkan IP address yang digunakan untuk keperluan internet disebut IP address public.
+Pembagian Kelas IP Address Struktur IP Address  Network dan Host Subnet Mask Panjang prefiks  Jenis IP Address IP Publik dan IP Private</description>
+    </item>
+    
+    <item>
+      <title>Pengenalan Jaringan Komputer</title>
+      <link>https://fahmi-alfath.github.io/2020/04/pengenalan-jaringan-komputer/</link>
+      <pubDate>Fri, 10 Apr 2020 17:40:05 +0700</pubDate>
+      
+      <guid>https://fahmi-alfath.github.io/2020/04/pengenalan-jaringan-komputer/</guid>
+      <description>Pengertian Jaringan Komputer Jaringan Komputer adalah hubungan dua buah device ataupun lebih yang digunakan untuk berkomunikasi diantara para device.
+Saat ini tidak hanya komputer saja end device yang bisa dihubungkan dengan jaringan tetapi alat-alat rumah tangga pun sudah mulai menggunakan ip, maka penggunaan ip v4 sudah mulai disangsikan akan memenuhi kebutuhan ip address.
+Untuk membangun sebuah jaringan komputer, diperlukan sebuah media Transmisi baik menggunakan Kabel maupun menggunakan Wireless.
+Komponen Jaringan Komputer  End Device ( berupa alat/komponen yang dihubungkan dengan komputer ) Perantara Perangkat Jaringan ( berupa switch, hub, reuter, modem dll ) Media Transmisi ( kabel, wifi dsb )  Media Jaringan  Jenis Kabel Jaringan  Unshielded Twisted-Pair Cable Shielded Twisted-Pair Cable Coaxial Cable Copper Media Safety      Karakteristik Kabel Tembaga  Murah, mudah untuk menginstal, resistansi rendah untuk arus listrik Jarak dan interferensi sinyal    Pada umumnya jaringan komputer menggunakan media transmisi berupa kabel UTP.</description>
+    </item>
+    
+    <item>
+      <title>Tentang</title>
+      <link>https://fahmi-alfath.github.io/about/</link>
+      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fahmi-alfath.github.io/about/</guid>
+      <description>Tentang Penulis Seorang Mahasiswa di salah satu kampus di Sukabumi yang masih menekuni bidang pemrograman terutama pemrograman web dengan bahasa PHP. Terbiasa menggunakan PHP Framework Codeigniter dalam pembuatan aplikasi dan juga website.
+Tujuan adanya website ini diantaranya yaitu sebagai portofolio hasil dari yang pernah pelajari dan kerjakan, membagikan pengetahuan seperti cara membuat sesuatu dan juga perbaikan masalah / error pada suatu kode.
+Apa saja yang saya kuasai? Saya menguasai beberapa bahasa pemrograman, diawali dengan bahasa yang biasa dikuasai dalam pemrograman web seperti HTML, CSS murni maupun dengan Framework seperti Bootstrap dan Semantic UI, Javascript dengan menggunakan JQuery, dan PHP native serta menggunakan Codeigniter dan Laravel.</description>
+    </item>
+    
+  </channel>
+</rss>
