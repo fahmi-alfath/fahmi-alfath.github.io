@@ -4,35 +4,63 @@
   
   <url>
     <loc>https://fahmi-alfath.github.io/categories/</loc>
-    <lastmod>2020-04-27T18:41:23+07:00</lastmod>
+    <lastmod>2020-06-18T20:25:13+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://fahmi-alfath.github.io/</loc>
+    <lastmod>2020-06-18T20:25:13+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://fahmi-alfath.github.io/2020/06/fungsi-protokol-dan-kelebihan-serta-kekurangan-ipv4-ipv6/</loc>
+    <lastmod>2020-06-18T20:25:13+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://fahmi-alfath.github.io/tags/ipv4-dan-ipv6/</loc>
+    <lastmod>2020-06-18T20:25:13+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://fahmi-alfath.github.io/tags/jaringan-komputer/</loc>
-    <lastmod>2020-04-27T18:41:23+07:00</lastmod>
+    <lastmod>2020-06-18T20:25:13+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://fahmi-alfath.github.io/categories/jaringan-komputer/</loc>
-    <lastmod>2020-04-27T18:41:23+07:00</lastmod>
+    <lastmod>2020-06-18T20:25:13+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://fahmi-alfath.github.io/posts/</loc>
-    <lastmod>2020-04-27T18:41:23+07:00</lastmod>
+    <lastmod>2020-06-18T20:25:13+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://fahmi-alfath.github.io/tags/protokol/</loc>
+    <lastmod>2020-06-18T20:25:13+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://fahmi-alfath.github.io/tags/</loc>
-    <lastmod>2020-04-27T18:41:23+07:00</lastmod>
+    <lastmod>2020-06-18T20:25:13+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -110,13 +138,6 @@
   <url>
     <loc>https://fahmi-alfath.github.io/2020/04/pengenalan-jaringan-komputer/</loc>
     <lastmod>2020-04-10T17:40:05+07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://fahmi-alfath.github.io/</loc>
-    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

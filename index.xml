@@ -5,10 +5,20 @@
     <link>https://fahmi-alfath.github.io/</link>
     <description>Recent content on Fahmi Alfath</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 20 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2020 20:25:13 +0700</lastBuildDate>
     
         <atom:link href="https://fahmi-alfath.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Fungsi Protokol Dan Kelebihan Serta Kekurangan Ipv4 dan Ipv6</title>
+      <link>https://fahmi-alfath.github.io/2020/06/fungsi-protokol-dan-kelebihan-serta-kekurangan-ipv4-ipv6/</link>
+      <pubDate>Thu, 18 Jun 2020 20:25:13 +0700</pubDate>
+      
+      <guid>https://fahmi-alfath.github.io/2020/06/fungsi-protokol-dan-kelebihan-serta-kekurangan-ipv4-ipv6/</guid>
+      <description>ICMP ( Internet Control Message Protocol ) Internet Control Message Protocol atau ICMP, memiliki beberapa fungsi utama diantaranya :
+ Membantu proses error handling / melaporkan apabila terjadi error pada sebuah jaringan Membantu control procedure atau prosedur pengaturan pada sebuah jaringan Menyediakan pengendalian error dan pengendalian arus pada network layer atau lapisan jaringan Mendeteksi terjadinya error pada jaringan, seperti connection lost, kemacetan jaringan dan sebagainya   sumber : https://dosenit.com/jaringan-komputer/teknologi-jaringan/pengertian-icmp</description>
+    </item>
     
     <item>
       <title>Topologi Jaringan</title>
